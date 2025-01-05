@@ -1,4 +1,5 @@
 <img src="header.png" alt="there shoud be something...">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Machine+Learning+Engineer" alt="Typing SVG" /></a>
 
 <!--
 **Alexguzanov/Alexguzanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
