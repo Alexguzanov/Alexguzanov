@@ -10,9 +10,7 @@
 
 <h2>Pet Projects 💻</h2>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alexguzanov&repo=House-Price-Analysis-Preprocessing-and-Prediction)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/Alexguzanov/House-Price-Analysis-Preprocessing-and-Prediction)) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alexguzanov&repo=NLP-Process-with-Sentiment-Analysis)]([https://github.com/anuraghazra/github-readme-stats]([https://github.com/Alexguzanov/House-Price-Analysis-Preprocessing-and-Prediction](https://github.com/Alexguzanov/NLP-Process-with-Sentiment-Analysis))) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alexguzanov&repo=EMNIST-Classification)]([https://github.com/anuraghazra/github-readme-stats]([[https://github.com/Alexguzanov/House-Price-Analysis-Preprocessing-and-Prediction](https://github.com/Alexguzanov/NLP-Process-with-Sentiment-Analysis](https://github.com/Alexguzanov/EMNIST-Classification)))) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alexguzanov&repo=Breast-Cancer-Data-Analysis-and-Prediction)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/Alexguzanov/Breast-Cancer-Data-Analysis-and-Prediction)) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alexguzanov&repo=Credit-Card-Fraud-Detection)]([https://github.com/anuraghazra/github-readme-stats]([https://github.com/Alexguzanov/Breast-Cancer-Data-Analysis-and-Prediction](https://github.com/Alexguzanov/Credit-Card-Fraud-Detection))) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=LoanApprovalPrediction)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/Alexguzanov/LoanApprovalPrediction))
-
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alexguzanov&repo=House-Price-Analysis-Preprocessing-and-Prediction)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/Alexguzanov/House-Price-Analysis-Preprocessing-and-Prediction)) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alexguzanov&repo=NLP-Process-with-Sentiment-Analysis)]([https://github.com/anuraghazra/github-readme-stats]([https://github.com/Alexguzanov/House-Price-Analysis-Preprocessing-and-Prediction](https://github.com/Alexguzanov/NLP-Process-with-Sentiment-Analysis))) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alexguzanov&repo=EMNIST-Classification)]([https://github.com/anuraghazra/github-readme-stats]([[https://github.com/Alexguzanov/House-Price-Analysis-Preprocessing-and-Prediction](https://github.com/Alexguzanov/NLP-Process-with-Sentiment-Analysis](https://github.com/Alexguzanov/EMNIST-Classification)))) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alexguzanov&repo=Breast-Cancer-Data-Analysis-and-Prediction)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/Alexguzanov/Breast-Cancer-Data-Analysis-and-Prediction)) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alexguzanov&repo=Credit-Card-Fraud-Detection)]([https://github.com/anuraghazra/github-readme-stats]([https://github.com/Alexguzanov/Breast-Cancer-Data-Analysis-and-Prediction](https://github.com/Alexguzanov/Credit-Card-Fraud-Detection))) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alexguzanov&repo=LoanApprovalPrediction)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/Alexguzanov/LoanApprovalPrediction))
 
 
 
@@ -22,6 +20,8 @@
 
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
+![](https://komarev.com/ghpvc/?username=Alexguzanov)
 <!--
 **Alexguzanov/Alexguzanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
